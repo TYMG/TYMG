@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Matt Green
 
-### I'm a Software Developer, Black Man, and a terrible Pinball Player.
+### I'm a Software Developer, a Black Man, and a terrible Pinball Player.
 
 <img src="https://media.giphy.com/media/l2Je4JsstsS4zwoH6/giphy.gif"/>
 
